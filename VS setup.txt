@@ -1,0 +1,3 @@
+MKLINK /J "C:\Users\Chris\Dropbox\C4 Projects\C4 Engine version 3.0-d1\PluginCode\GitanicCode" "C:\Users\Chris\Dropbox\C4 Projects\Gitanic\SimpleLayoutMutator\PluginCode\GitanicCode"
+MKLINK /J "C:\Users\Chris\Documents\C4 Engine\3.0\VisualStudio2012\C4\SimpleLayoutMutator" "C:\Users\Chris\Dropbox\C4 Projects\Gitanic\SimpleLayoutMutator\VisualStuduio2012\C4\Gitanic\SimpleLayoutMutator"
+
